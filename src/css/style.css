@@ -1,0 +1,11 @@
+ul.special{
+    margin:0px;
+    padding:0px;
+    border:1px solid #f00;
+    width: 400px;
+    height: 200px;
+    list-style: none;
+}
+ul.loading{
+    background: url(@/img/1.gif) no-repeat 50% 50%;
+}
